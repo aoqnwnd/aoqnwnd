@@ -1,7 +1,7 @@
 
 ### Android Developer 👋
 ___
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aoqnwnd&show_icons=true&theme=dracula)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aoqnwnd&show_icons=true&theme=dracula)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoqnwnd&theme=dracula)
 
 # PROJECT 📃
