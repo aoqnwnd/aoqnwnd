@@ -15,12 +15,12 @@ ___
 ## [날씨머꼬](https://github.com/SANDY-9/Project_NSMGG)
 날씨 어플리케이션
 - Kotlin
-
+- Room
 
 ## [김선생님들](https://github.com/aoqnwnd/gimbab)
 김밥집 POS기 프로그램
 - Java
-
+- Oracle
 
 <!--
 **aoqnwnd/aoqnwnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
