@@ -6,7 +6,7 @@ ___
 
 # PROJECT 📃
 ___
-[우리들의 추억 저장소]
+우리들의 추억 저장소<br>
 [web](https://github.com/aoqnwnd/OurMemoryWeb), [Android](https://github.com/aoqnwnd/OurMemoryMobile)
 ___
 
