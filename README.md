@@ -33,3 +33,13 @@ ___
 - Java
 - Oracle Database
 - Apache Tomcat
+
+## Stack 기술 스택
+- Java
+- Kotlin
+- Spring framwork
+- Oracle database
+- Android Studio
+- Html & CSS
+- JSP
+- C
