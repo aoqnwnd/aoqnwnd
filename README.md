@@ -10,9 +10,9 @@ ___
 ## [날씨머꼬](https://github.com/SANDY-9/Project_NSMGG)
 날씨 어플리케이션
 - Kotlin
-- JetPack( Room, Navigation, WorkerManager)
+- Android JetPack( Room, Navigation, WorkerManager)
 - Firebase( Remote Config, FCM )
-- Rest Api(공공데이터)
+- Rest Api( 공공데이터 )
 - MVVM
 - Sqlite
 - Postman
