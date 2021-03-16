@@ -6,41 +6,30 @@ ___
 
 # PROJECT 📃
 
-## 우리들의 추억 저장소 ([Android](https://github.com/InjaeLee-new/OurMemoryMobile),  [Web](https://github.com/aoqnwnd/OurMemoryWeb))<br>
-웹 & 앱 연동 추억 공유 통합 SNS 어플리케이션
-- Java
-- Spring STS3
-- Oracle
-- FCM
-- 
 
 ## [날씨머꼬](https://github.com/SANDY-9/Project_NSMGG)
 날씨 어플리케이션
 - Kotlin
-- Room
-- Rest Api
+- JetPack( Room, Navigation, WorkerManager)
+- Firebase( Remote Config, FCM )
+- Rest Api(공공데이터)
 - MVVM
-- Navigation
-- WorkerManager
-- FCM
-- Remote Config
+- Sqlite
+- Postman
+
+
+## 우리들의 추억 저장소 ([Android](https://github.com/InjaeLee-new/OurMemoryMobile),  [Web](https://github.com/aoqnwnd/OurMemoryWeb))<br>
+웹 & 앱 연동 추억 공유 통합 SNS 어플리케이션
+- Java
+- Spring STS3
+- Oracle Database
+- Firebase( Google Login, FCM )
+- Rest Api
+- Postman
+- Apache Tomcat
 
 ## [김선생님들](https://github.com/aoqnwnd/gimbab)
 김밥집 POS기 프로그램
 - Java
-- Oracle
-
-<!--
-**aoqnwnd/aoqnwnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Oracle Database
+- Apache Tomcat
