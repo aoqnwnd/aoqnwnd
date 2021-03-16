@@ -7,7 +7,7 @@ ___
 # PROJECT 📃
 
 
-## [날씨머꼬](https://github.com/SANDY-9/Project_NSMGG)
+## [날씨머꼬](https://github.com/SANDY-9/Project_NSMGG) 🌞
 날씨 어플리케이션
 - Kotlin
 - Android JetPack( Room, Navigation, WorkerManager)
@@ -18,7 +18,7 @@ ___
 - Postman
 
 
-## 우리들의 추억 저장소 ([Android](https://github.com/InjaeLee-new/OurMemoryMobile),  [Web](https://github.com/aoqnwnd/OurMemoryWeb))<br>
+## 우리들의 추억 저장소 ([Android](https://github.com/InjaeLee-new/OurMemoryMobile),  [Web](https://github.com/aoqnwnd/OurMemoryWeb))<br> 📚
 웹 & 앱 연동 추억 공유 통합 SNS 어플리케이션
 - Java
 - Spring STS3
@@ -28,13 +28,13 @@ ___
 - Postman
 - Apache Tomcat
 
-## [김선생님들](https://github.com/aoqnwnd/gimbab)
+## [김선생님들](https://github.com/aoqnwnd/gimbab) 🍙
 김밥집 POS기 프로그램
 - Java
 - Oracle Database
 - Apache Tomcat
 
-## Stack 기술 스택
+## Stack 기술 스택 📖
 - Java
 - Kotlin
 - Spring framwork
