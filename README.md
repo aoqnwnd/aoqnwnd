@@ -13,7 +13,7 @@ ___
 - Android JetPack( Room, Navigation, WorkerManager)
 - Firebase( Remote Config, FCM )
 - Rest Api( 공공데이터 )
-- 
+- Retrofit
 - MVVM
 - Data Binding
 - LiveData
