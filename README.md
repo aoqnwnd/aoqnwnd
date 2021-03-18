@@ -14,6 +14,8 @@ ___
 - Firebase( Remote Config, FCM )
 - Rest Api( 공공데이터 )
 - MVVM
+- Data Binding
+- LiveData
 - Coroutine
 - Sqlite
 - Postman
