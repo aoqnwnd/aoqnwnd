@@ -20,7 +20,7 @@ ___
 - Postman
 
 
-## 우리들의 추억 저장소 ([Android](https://github.com/InjaeLee-new/OurMemoryMobile),  [Web](https://github.com/aoqnwnd/OurMemoryWeb)) 📚 <br>
+## 우리들의 추억 저장소 ([Android](https://github.com/InjaeLee-new/OurMemoryMobile),  [Web](https://github.com/InjaeLee-new/ourMemoryWeb)) 📚 <br>
 웹 & 앱 연동 추억 공유 통합 SNS 어플리케이션
 - Java
 - Spring STS3
