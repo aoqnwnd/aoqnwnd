@@ -37,8 +37,8 @@ ___
 - Apache Tomcat
 
 ## Stack 기술 스택 📖
-- Java
 - Kotlin
+- Java
 - Spring framwork
 - Oracle database
 - Android Studio
